@@ -1,6 +1,6 @@
-# SecureQ Core — Post-Quantum Cryptography Hardware IP
+﻿# SecureQ Core — Post-Quantum Cryptography Hardware IP
 
-**By Crystalwallet UG**
+**By Crystallwallet UG**
 
 SecureQ Core is a silicon-proven PQC hardware accelerator implementing the NIST standardized **ML-KEM (CRYSTALS-Kyber)** and **ML-DSA (CRYSTALS-Dilithium)** algorithms.
 
@@ -43,4 +43,4 @@ For partnership, integration, or IP acquisition inquiries, please reach out to *
 
 ---
 
-*© 2026 Crystalwallet UG — Confidential*
+*© 2026 Crystallwallet UG — Confidential*
